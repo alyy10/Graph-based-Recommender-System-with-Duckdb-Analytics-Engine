@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a **Graph-based recommender system** designed to provide personalized product recommendations for e-commerce platforms. The system analyzes user behavior patterns from their purchase and search history to recommend the most relevant products using graph-based algorithms and co-occurrence analysis.
+This project implements a **Graph-based recommender system** designed to provide personalized product recommendations for e-commerce platforms. The system analyzes user behavior patterns from their purchase and search history to recommend the most relevant products using graph-based algorithms and co-occurrences.
 
 ## Project Architecture
 
